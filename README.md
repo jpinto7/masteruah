@@ -39,8 +39,20 @@ A continuación se detallan los pasos que se siguieron en el ejercicio:
 
 12. Se subió el tag v0.1 con el comando `git push origin v0.1`.
 
+13. Se actualizó la foto de perfil en la cuenta de GitHub:
+
+  ![paso13_img]
+
+14. Se habilitó el doble factor de autenticación en la cuenta de Github:
+
+  ![paso14_img]
+
+15. (Ya se había agregado una clave pública a mi ordernador)
+
 [paso1_img]: images/paso1.png "Paso 1"
 [paso2_img]: images/paso2.png "Paso 2"
 [paso3_img]: images/paso3.png "Paso 3"
 [paso7_img]: images/paso7.png "Paso 7"
 [paso9_img]: images/paso9.png "Paso 9"
+[paso13_img]: images/paso13.png "Paso 13"
+[paso14_img]: images/paso14.png "Paso 14"
