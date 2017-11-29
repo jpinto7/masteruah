@@ -33,6 +33,8 @@ A continuación se detallan los pasos que se siguieron en el ejercicio:
   - privado.txt
   - privada/
 
+10. Se añadió el archivo `1.txt` al repositorio local con el comando `touch 1.txt`.
+
 [paso1_img]: images/paso1.png "Paso 1"
 [paso2_img]: images/paso2.png "Paso 2"
 [paso3_img]: images/paso3.png "Paso 3"
