@@ -35,6 +35,10 @@ A continuación se detallan los pasos que se siguieron en el ejercicio:
 
 10. Se añadió el archivo `1.txt` al repositorio local con el comando `touch 1.txt`.
 
+11. Se creó el tag v0.1 con el comando `git tag v0.1`.
+
+12. Se subió el tag v0.1 con el comando `git push origin v0.1`.
+
 [paso1_img]: images/paso1.png "Paso 1"
 [paso2_img]: images/paso2.png "Paso 2"
 [paso3_img]: images/paso3.png "Paso 3"
