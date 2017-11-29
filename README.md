@@ -23,7 +23,9 @@ A continuación se detallan los pasos que se siguieron en el ejercicio:
 
 7. Se subieron los cambios al repositorio remoto con el comando `git push origin master`:
 
+  ![Paso 7][paso7_img]
 
 [paso1_img]: images/paso1.png "Paso 1"
 [paso2_img]: images/paso2.png "Paso 2"
 [paso3_img]: images/paso3.png "Paso 3"
+[paso7_img]: images/paso7.png "Paso 7"
