@@ -47,7 +47,15 @@ A continuación se detallan los pasos que se siguieron en el ejercicio:
 
   ![paso14_img]
 
-15. (Ya se había agregado una clave pública a mi ordernador)
+15. (Ya se había agregado una clave pública a mi ordernador).
+
+16. Se creó la tabla con información sobre los compañeros de clase:
+
+| Nombre | GitHub |
+|:-:|:-:|
+| Lourdes | [Perfil](https://github.com/LourdesRD) |
+| Eva | [Perfil](https://github.com/evamuhe)  |
+| Jose Manuel | [Perfil](https://github.com/jomarequena) |
 
 [paso1_img]: images/paso1.png "Paso 1"
 [paso2_img]: images/paso2.png "Paso 2"
